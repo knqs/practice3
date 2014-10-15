@@ -1,0 +1,40 @@
+div{
+	border: 1px solid purple;
+	background-color: red;
+}
+#div1{
+	display: inline-block;
+	float: left;
+	border-radius: 3px;
+	border: 3px solid pink;
+	width: 300px;
+	height: 800px;
+	background-color: purple;
+}
+#div2{
+	display: inline-block;
+	float: left;
+	border-radius: 3px;
+	border: 3px solid pink;
+	width: 800px;
+	height: 800px;
+	background-color: purple;
+}
+#div3{
+	display: inline-block;
+	float: left;
+}
+.img2{
+	display: block;
+	width: 214px;
+}
+.img2:hover{
+	width: 217px;
+}
+#div4{
+	clear: both;
+	background-color: purple;
+}
+.p1{
+	text-align: center;
+}
